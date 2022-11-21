@@ -1,0 +1,1 @@
+This project belongs to daedulus robotics. We are currently competing in the Bell AVR 2022 Emergency Firefighting Challenge. We have advanced to the finals in ARLINGTON, Texas after winning both Greater Washington events. This repository will be public with our code after the finals.
