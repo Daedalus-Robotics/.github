@@ -6,5 +6,5 @@ We placed 2nd overall in the national finals in ARLINGTON, Texas and won Best Ov
 ## Contents 
 - AVR Drone GUI modfications (python)
 - Tello Autonomous/Manual GUI (python)
-- Sphero RVR Autonomous Code (javascript)
+- Sphero RVR Autonomous Code (python)
 - Other AVR functions
